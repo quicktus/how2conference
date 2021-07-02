@@ -13,12 +13,11 @@ Hinweis: Die Vergabe der Themen bzw. Forschungsaufgaben an die Studierenden war 
 
 Das Projekt begann zum Anfang des Sommersemesters 2021, wurde in einem Teams-Meeting am 18. Mai 2021 per Projektplan konkretisiert und endete mit dem zweiten Konferenztag am 25. Juni 2021.
 
-Als erstes wurde die Rahmenanforderungen mit den Dozenten besprochen und eine Woche später bereits ein Zeitplan veröffentlicht. Nur die Konferenztermine fehlten im Zeitplan, da diese in einem Abstimmungsverfahren nach Präferenzen der Teilnehmer festgelegt werden sollten. Diese Terminabstimmung organisierte ich über Terminklick der FAU, hier ist der Link:
-https://terminklick.stuve.fau.de/poll/ml4b/
+Als erstes wurde die Rahmenanforderungen mit den Dozenten besprochen und eine Woche später bereits ein Zeitplan veröffentlicht. Nur die Konferenztermine fehlten im Zeitplan, da diese in einem Abstimmungsverfahren nach Präferenzen der Teilnehmer festgelegt werden sollten. Diese Terminabstimmung organisierte ich über das Tool [Terminklick](https://terminklick.stuve.fau.de/) der FAU.
 
 Als nächstes wurden Conference Guidelines für die Reviewer erstellt. Hierzu orientierte ich mich an typischen Vorgaben echter wissenschaftlicher Konferenzen (insbesondere Machine Learning Konferenzen) und versuchte, die Forderungen etwas zu reduzieren, damit es machbar blieb. 
 
-Anschließend habe ich mit Google Forms, das sich wegen der Integration mit Google Sheets für die Konferenzzwecke gut eignet, ein Survey erstellt für die Reviews, das verschiedene Vorgaben der Reviewers‘ Guidelines wie die Kriterienkataloge, die Textbeschreibungen, die Notenskalen vorgegeben.
+Anschließend habe ich mit [Google Forms](https://www.google.de/intl/de/forms/about/), das sich wegen der Integration mit Google Sheets für die Konferenzzwecke gut eignet, ein Survey erstellt für die Reviews, das verschiedene Vorgaben der Reviewers‘ Guidelines wie die Kriterienkataloge, die Textbeschreibungen, die Notenskalen vorgegeben.
 
 Wichtig: es musste frühzeitig eine Seite im Gitbook erstellt werden, auf der alle Information zu finden waren, die für die Konferenz relevant waren. Jede wichtige Information wurde über Teams mitgeteilt. Friendly Reminder im Konferenzkanal auf MS-Teams sorgten immer wieder dafür, dass Deadlines nicht allzu leicht oder versehentlich missachtet wurden. Es ist hier sehr nützlich heimliche grace periods einzuplanen, weil die Teilnehmer/-innen immer wieder die Deadlines platzen lassen. Welcome Message: Eine Einleitung für die Conference mit Bildern der Chairs musste frühzeitig erstellt werden.
 
@@ -60,7 +59,7 @@ Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz 
 
 Branding: Von den Dozenten erhielt ich ein Logo, aus dem ich ein Banner entwickelte. Letzteres habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Der wurde an den Konferenztagen von fast allen Teilnehmern als Teams-Background-Filter genutzt, was ein schönes Bild beim Finale ergab, etwas genormter und authentischer wirkte und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine echte Konferenz gewesen und die Teilnehmer sprächen vor einer Fotoleinwand.
 
-Für die Zukunft: Die Konferenz kann per Gather.town abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, z.B. mit Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang miteinander etc.). Damit wurden schon echte ML-Konferenzen gehalten.
+Für die Zukunft: Die Konferenz kann per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, z.B. mit Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang miteinander etc.). Damit wurden schon echte ML-Konferenzen gehalten.
 
 
 ## Checklisten ##
