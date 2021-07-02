@@ -7,25 +7,25 @@ public class Paper_assignment {
         String formUrl = "https://forms.gle/eUXPR4NEpu35XGZ96";
         String conferenceName = "ML4B Conference 2021";
         String deadline = "10.06.2021";
-        String signature = "Max Mustermann und Kilian Wenker";
+        String signature = "Sven Schweigert und Kilian Wenker";
 
-        String[] people = {"Anton", "Jakob", "Aynes", "Tim", "Emil", "Leon", "Tao", "Christin", "Cody", "Phan",
-                "Fabian", "Aaron", "Liam", "Paul", "Kilian", "Max", "Julian", "Samuel", "Khai", "Helena",
-                "Felix", "Niklas", "Pia", "Fabio", "Sedat", "Robin", "Tarek", "Bruno", "Dominik",
-                "Rayan", "Saburou", "Jonathan", "Pascal", "Alina"};
+        String[] people = {"Alex", "Jonas", "Amir", "Theo", "Ewald", "Luca", "Thanh", "Caro", "Cristoper", "Philipp",
+                "Ferdinand", "Albin", "Luis", "Patrick", "Kilian", "Sven", "Josef", "Siming", "Kim Tin", "Hui-Lai",
+                "Frank", "Nazar", "Prisilla", "Frederick", "Sebastian", "Runjie", "Tobias", "Benjamin", "David",
+                "Robert", "Selim", "Jannik", "Pavel", "Andrea"};
 
-        String[] titles = {"Clustering Digital Twin Tweets - Anton & Jakob",
-                "Clustering of Digital Twin Tweets - Aynes & Tim", "Detecting Trash in the Wild (Emil & Leon)",
-                "Generating Grapes for Object Detection -Tao & Christin",
-                "Generating Grapes for Object Detection - Cody & Phan",
-                "Generating Grapes for Object Detection - Fabian & Aaron", "Generating Tweets - Liam & Paul",
-                "Improving NLP text generation using post processing - Kilian & Max",
-                "Generating Tweets (Julian & Samuel)", "Generating Tweets (Khai & Helena)",
-                "Identify Topics (Felix & Niklas)", "Inpainting Marine Images (Pia & Fabio)",
-                "Political Party Classification - Sedat & Robin",
-                "Political Party Classification (Tarek & Bruno)", "Political Party Classification - Dominik & Rayan",
-                "Political Party Classification - Saburou & Jonathan",
-                "Sentiment Analysis of Digital Twin Tweets - Pascal & Alina"};
+        String[] titles = {"Clustering Digital Twin Tweets - Alex & Jonas",
+                "Clustering of Digital Twin Tweets - Amir & Theo", "Detecting Trash in the Wild (Ewald & Luca)",
+                "Generating Grapes for Object Detection -Thanh & Caro",
+                "Generating Grapes for Object Detection - Christopher & Philipp",
+                "Generating Grapes for Object Detection - Ferdinand & Albin", "Generating Tweets - Luis & Patrick",
+                "Improving NLP text generation using post processing - Kilian & Sven",
+                "Generating Tweets (Josef & Siming)", "Generating Tweets (Kim Tin & Hui-Lai)",
+                "Identify Topics (Frank & Nazar)", "Inpainting Marine Images (Prisilla & Frederick)",
+                "Political Party Classification - Sebastian & Runjie",
+                "Political Party Classification (Tobias & Benjamin)", "Political Party Classification - David & Robert",
+                "Political Party Classification - Selim & Jannik",
+                "Sentiment Analysis of Digital Twin Tweets - Pavel & Andrea"};
 
         String[] types = {"T", "T", "I", "I", "I", "I", "T", "T", "T", "T", "T", "I", "T", "T", "T", "T", "T"};
 
@@ -58,12 +58,12 @@ public class Paper_assignment {
                             && !(people[index].equals(papers[j].authors[0]))//reviewer is not the 1st author of the paper
                             && !(people[index].equals(papers[j].authors[1]))//reviewer is not the 2nd author of the paper
                             && !(people[index].equals(reviewers[0]))//reviewer does not review this paper yet
-                            && !((i.equals("Improving NLP text generation using post processing - Kilian & Max")
-                            || i.equals("Political Party Classification - Sedat & Robin"))
+                            && !((i.equals("Improving NLP text generation using post processing - Kilian & Sven")
+                            || i.equals("Political Party Classification - Sebastian & Runjie"))
                             && (people[index].equals("Kilian")
-                            || people[index].equals("Max")
-                            || people[index].equals("Sedat")
-                            || people[index].equals("Robin")))//chairs don't review each other
+                            || people[index].equals("Sven")
+                            || people[index].equals("Sebastian")
+                            || people[index].equals("Runjie")))//chairs don't review each other
                     );
 
                 }
@@ -87,10 +87,10 @@ public class Paper_assignment {
 
         for (int i = 0; i < reviewerCount; i++) {
             System.out.println("\nHallo " + people[i]
-                    + ",\ndir wurden im Reviewprozess für die " + conferenceName + " die folgenden zwei Papers zugeteilt:\n\n" +
+                    + ",\ndir wurden im Reviewprozess fÃ¼r die " + conferenceName + " die folgenden zwei Papers zugeteilt:\n\n" +
                     "Titel: " + personReviews[i][0].title + "  " + gitbookUrl + personReviews[i][0].slug + "\nTitel: " +
                     personReviews[i][1].title + "  " + gitbookUrl + personReviews[i][1].slug + ")\n\nReviewformular:  " + formUrl +
-                    "\n\nBeide Reviews sind mittels dem oben verlinkten Formular bis einschließlich " + deadline + " abzugeben.\n\nViele Grüße,\n" + signature + "\n");
+                    "\n\nBeide Reviews sind mittels dem oben verlinkten Formular bis einschlieÃŸlich " + deadline + " abzugeben.\n\nViele GrÃ¼ÃŸe,\n" + signature + "\n");
 
         }
     }
