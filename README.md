@@ -13,7 +13,7 @@ Hinweis: Die Vergabe der Themen bzw. Forschungsaufgaben an die Studierenden war 
 
 Das Projekt begann zum Anfang des Sommersemesters 2021, wurde in einem Teams-Meeting am 18. Mai 2021 per Projektplan konkretisiert und endete mit dem zweiten Konferenztag am 25. Juni 2021.
 
-Als erstes wurde die Rahmenanforderungen mit den Dozenten besprochen und eine Woche später bereits ein Zeitplan veröffentlicht. Nur die Konferenztermine fehlten im Zeitplan, da diese in einem Abstimmungsverfahren nach Präferenzen der Teilnehmer festgelegt werden sollten. Diese Terminabstimmung organisierte ich über das Tool [Terminklick](https://terminklick.stuve.fau.de/) der FAU.
+Als erstes wurde die Rahmenanforderungen mit den Dozenten besprochen und eine Woche später bereits ein Zeitplan veröffentlicht. Nur die Konferenztermine fehlten im Zeitplan, da diese in einem Abstimmungsverfahren nach Präferenzen der Teilnehmer festgelegt werden sollten. Diese Terminabstimmung organisierte ich über das Tool [Terminklick](https://terminklick.stuve.fau.de/) der Studierendenvertretung der FAU.
 
 Als nächstes wurden Conference Guidelines für die Reviewer erstellt. Hierzu orientierte ich mich an typischen Vorgaben echter wissenschaftlicher Konferenzen (insbesondere Machine Learning Konferenzen) und versuchte, die Forderungen etwas zu reduzieren, damit es machbar blieb. 
 
@@ -52,10 +52,10 @@ Wer präsentiert an welchem Konferenztag. Theoretisch wäre es über die Präfer
 Ich habe in Teams einen Ordner angelegt, in dem alle ihre ppt-Dateien für die Präsentation hochladen konnten, damit sie am Konferenztag zur Verfügung standen (und auch den Dozenten hinterher für die Bewertung zur Verfügung standen).
 
 Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz zu teilen:  
-1/die eigene Gitbook-Page mit allen Informationen zur Konferenz auf einer Seite (Vergangenes und auch weit in die Zukunft),  
-2/der eigene Teams-Kanal (für Friendly Reminders oder aktuelle Sachen wie ab heute dürfen die Reviews geschrieben werden, ihr solltet alle eine DM bekommen haben, falls nicht bitte gebt mir Bescheid)  
-3/das Vorlesungsmeeting in Form der Videokonferenz (rund fünf Minuten am Anfang und am Ende konnte ich für Updates nutzen, mit Infos die den Teams-Infos teilweise voraus waren)  
-4/Direktnachrichten per Teams z.B. für Links zu den zu reviewenden Papers oder den Formularen. 
+1. die eigene Gitbook-Page mit allen Informationen zur Konferenz auf einer Seite (Vergangenes und auch weit in die Zukunft),  
+2. der eigene Teams-Kanal (für Friendly Reminders oder aktuelle Sachen wie ab heute dürfen die Reviews geschrieben werden, ihr solltet alle eine DM bekommen haben, falls nicht bitte gebt mir Bescheid)  
+3. das Vorlesungsmeeting in Form der Videokonferenz (rund fünf Minuten am Anfang und am Ende konnte ich für Updates nutzen, mit Infos die den Teams-Infos teilweise voraus waren)  
+4. Direktnachrichten per Teams z.B. für Links zu den zu reviewenden Papers oder den Formularen. 
 
 Branding: Von den Dozenten erhielt ich ein Logo, aus dem ich ein Banner entwickelte. Letzteres habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Der wurde an den Konferenztagen von fast allen Teilnehmern als Teams-Background-Filter genutzt, was ein schönes Bild beim Finale ergab, etwas genormter und authentischer wirkte und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine echte Konferenz gewesen und die Teilnehmer sprächen vor einer Fotoleinwand.
 
