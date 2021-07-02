@@ -65,7 +65,20 @@ Für die Zukunft: Die Konferenz kann per Gather.town abgehalten werden, falls di
 
 ## Checklisten ##
 
+### 1. Zeitplan ###
 - [ ] An uncompleted task 
 
+### 2. Abgabe der Papers ###
+- [ ] An uncompleted task 
 
+### 3. Abgabe der Reviews ###
+- [ ] An uncompleted task 
 
+### 4. Paper Anpassungen ###
+- [ ] An uncompleted task 
+
+### 5. Finale Empfehlungen ###
+- [ ] An uncompleted task 
+
+### 6. Konferenz ###
+- [ ] An uncompleted task 
