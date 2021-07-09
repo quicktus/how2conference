@@ -65,19 +65,31 @@ Für die Zukunft: Die Konferenz kann per [Gathertown](https://gather.town/) abge
 ## Checklisten ##
 
 ### 1. Zeitplan ###
-- [ ] An uncompleted task 
+- [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
+- [ ] Willkommensnachricht(en) erstellen
+- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen
+- [ ] Zeitplan anhand von Umfrageergebnis und Veranstaltungsrahmen erstellen
 
 ### 2. Abgabe der Papers ###
-- [ ] An uncompleted task 
+- [ ] Reviewers Guidelines erstellen 
+- [ ] Gitbook Ordner für Reviewers Copies erstellen
 
 ### 3. Abgabe der Reviews ###
-- [ ] An uncompleted task 
+- [ ] Reviewern Papers zuteilen & per DM benachrichtigen
+- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
+- [ ] 'Review Survey' passend zu den Guidelines erstellen
 
 ### 4. Paper Anpassungen ###
-- [ ] An uncompleted task 
+- [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
+- [ ] Chair Review für jedes Paper erstellen
+- [ ] 'Authors Response to Reviewers' Survey erstellen
 
 ### 5. Finale Empfehlungen ###
-- [ ] An uncompleted task 
+- [ ] 'Final Recomendation' Survey erstellen
+- [ ] Responses per DM an die jeweiligen Reviewer senden
 
 ### 6. Konferenz ###
-- [ ] An uncompleted task 
+- [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
+- [ ] Ablaufplan für die Konferenztage erstellen
+- [ ] Eröffnungsansprache erstellen
+- [ ] Konferenz mit Martin und Markus moderieren
