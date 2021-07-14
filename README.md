@@ -10,33 +10,36 @@
 Ich habe im Sommersemester 2021 begleitend zum Modul Machine Learining for Business (ML4B) die _Machine Learning for Business Conference 2021_ und die vorgelagerten Peer Reviews organisiert. Das Projekt wurde im Format des Forschenden Lernens durchgeführt. Dieses Reposistory dient der Dokumentation meiner Arbeit und kann als Vorlage für zukünftige ML4B Konferenzen verwendet werden.
 Die ML4B Conference 2021 war eine interne Konferenz auf der Studierende, die das Modul ML4B belegt haben, die Ergebnisse ihrer Forschungsprojekte vorgestellt haben. Dazu haben sie ein Forschungsprojekt im Bereich des Machine Learning durchgeführt, über die Ergebnisse ein Paper im wissenschaftlichen Stil verfasst und eingereicht, Papers anderer Studierenden Peer-Reviewt und nach einer Überarbeitung schließlich ihr Paper in Form einer Präsentation auf der Konferenz vorgestellt.
 
-Hinweis: Die Vergabe der Themen bzw. Forschungsaufgaben an die Studierenden war bereits vor dem Start vergeben.
+Hinweis: Die Vergabe der Themen bzw. Forschungsaufgaben an die Studierenden fand bereits vor dem Start des Projekts statt.
 
 Das Projekt begann zum Anfang des Sommersemesters 2021, wurde in einem Teams-Meeting am 18. Mai 2021 per Projektplan konkretisiert und endete mit dem zweiten Konferenztag am 25. Juni 2021.
 
+
 ### 1. Zeitplan ###
 
-Als erstes wurde die Rahmenanforderungen mit den Dozenten besprochen und eine Woche später bereits ein Zeitplan veröffentlicht. Nur die Konferenztermine fehlten im Zeitplan, da diese in einem Abstimmungsverfahren nach Präferenzen der Teilnehmer festgelegt werden sollten. Diese Terminabstimmung organisierte ich über das Tool [Terminklick](https://terminklick.stuve.fau.de/) der Studierendenvertretung der FAU.
+Als erstes wurde die Rahmenanforderungen mit den Dozenten besprochen und die Kommunikationskanäle erstellt. Eine Woche später war bereits ein Zeitplan veröffentlicht. Nur die Konferenztermine fehlten im Zeitplan, da diese in einem Abstimmungsverfahren nach Präferenzen der Teilnehmer festgelegt werden sollten. Diese Terminabstimmung organisierte ich über das Tool [Terminklick](https://terminklick.stuve.fau.de/) der Studierendenvertretung der FAU. Anschließend wurden die zwei beliebtesten Termine als Konferenztermine ausgewählt und verkündet.
 
-Es musste frühzeitig eine Seite im Gitbook erstellt werden, auf der alle Information zu finden waren, die für die Konferenz relevant waren. Jede wichtige Information wurde über Teams mitgeteilt. Friendly Reminder im Konferenzkanal auf MS-Teams sorgten immer wieder dafür, dass Deadlines nicht allzu leicht oder versehentlich missachtet wurden. Es ist hier sehr nützlich heimliche "grace periods" einzuplanen, weil die Teilnehmer/-innen manchmal die Deadlines platzen lassen. 
+Es musste frühzeitig eine Seite im Gitbook geschrieben werden, auf der alle Information zu finden waren, die für die Konferenz relevant waren. Jede wichtige Information wurde über Teams mitgeteilt. Friendly Reminder im Konferenzkanal auf MS-Teams sorgten immer wieder dafür, dass Deadlines nicht allzu leicht oder versehentlich missachtet wurden. Es war hier sehr nützlich, heimliche grace periods einzuplanen, weil die Deadlines nicht immer eingehalten werden. 
 
-Als Kopf der Gitbookseite habe ich eine Welcome Message, ein Einleitungstext für die Conference mit Bildern der frühzeitig erstellt.
+Als Kopf der Gitbookseite habe ich eine Welcome Message erstellt, diese besteht aus einem Einleitungstext für die Konferenzteilnehmer und zwei Fotos der Konferenzleiter.
 
 
 ### 2. Abgabe der Papers ###
 
 Als nächstes wurden Conference Guidelines für die Reviewer erstellt. Hierzu orientierte ich mich an typischen Vorgaben echter wissenschaftlicher Konferenzen (insbesondere Machine Learning Konferenzen) und versuchte, die Forderungen etwas zu reduzieren, damit es machbar blieb. 
 
+Damit die Reviewers Reviews erstellen können, ohne dass die Autoren ihre Version weiterentwickelt haben (manche Autoren schaffen es nicht, bis zur Deadline ihr Paper fertig zu stellen und dürfen es auch bis zur Konferenz ständig weiterentwickeln), habe ich im Gitbook einen neuen Ordner für Reviewers‘ copies, erstellt und mich mit gitbook vertraut gemacht. In der aktuellen Version von Gitbook ist das duplizieren von Seiten nicht trivial, weswegen ich froh war, dass ich das Kopieren bereits getestet hatte. 
+
 
 ### 3. Abgabe der Reviews ###
+
+Gleich nach der Deadline für die Abgabe der Papers habe ich die Reviewers‘ copies erstellt. Diese Kopien haben so den Stand zum Abgabetermin „eingefroren“ und durften nun nicht mehr verändert werden, die Live-Version der Papers hingegen schon. 
 
 Anschließend habe ich mit [Google Forms](https://www.google.de/intl/de/forms/about/), das sich wegen der Integration mit Google Sheets für die Konferenzzwecke gut eignet, ein Survey erstellt für die Reviews, das die Vorgaben der Reviewers‘ Guidelines wie die Kriterienkataloge, die Textbeschreibungen und die Notenskalen umsetzt.
 
 Mit Java habe ich ein Skript (assignment.java) erstellt, das zufallsgesteuert unter Berücksichtigung einiger Regeln die Papers jeweils vier Reviewer pro Paper zuteil. Die Ausgabe kann als eine csv-Datei gespeichert werden. Außerdem generiert das Skript die Direktnachrichten für alle Teilnehmer. Die csv-Datei habe ich anschließend zur "vollen" Excel-Datei konvertiert (better_assignment.xlsx) und erweitert. Sie enthält als Checkliste zusätzlich zur erfolgten Zuteilung Reviewers zu den Reviewees: Spalten für die Überwachung des Direktnachrichten-Versands, eine invertierte Tabelle mit den Reviewees, um per Checkliste zu überwachen, wer Reviewer A, B, C oder D ist und wer die zugeordneten Chair Reviewer sind. All das ist aus der ursprünglichen Tabelle nicht oder zumindest nicht direkt ersichtlich, wird aber im Verlauf des Projekts gebraucht, beispielsweise um die Antworten auf die Reviews den richtigen Reviewern (s. weiter unten) zuzusenden. Wichtig an dieser Stelle ist auch, dass das Chair Review für die Conference Chairs nicht von diesen, sondern von einem anderen Studierenden geschrieben werden (sonst würden sich die Chairs ihr Chair Review selbst schreiben). Mein Skript vermeidet dies.
 
 Danach habe ich allen Teilnehmern Direktnachrichten geschrieben, mit dem Inhalt, welche zwei Papers zu erstellen sind und einem Link zu den Reviewer’s copies und zum Survey. 
-
-Damit die Reviewers Reviews erstellen können, ohne dass die Autoren ihre Version weiterentwickelt haben (manche Autoren schaffen es nicht, bis zur eigentlich bekannten Deadline ihr Paper fertig zu stellen und dürfen auch bis zur Konferenz ständig weiterentwickeln), habe ich in Gitbook in einem eigenen Ordner Reviewers‘ copies erstellt, die den Stand zum Abgabetermin „einfroren“ und nicht verändert werden durften. In der aktuellen Version von Gitbook ist das nicht trivial, weswegen ich froh war, dass ich das Kopieren bereits getestet hatte. 
 
 Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live-Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang der Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
 
@@ -52,6 +55,7 @@ Danach habe ich angefangen, die Chair Reviews zu schreiben und ebenfalls als Unt
 Nun kamen Direktnachrichten an alle, damit es sicher jeder sieht, dass die Reviews und Chair Reviews fertig sind. Ich konnte die Nachricht immer copy & pasten, weil ich diesmal die Anrede weggelassen habe.
 
 Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurde, schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden hier Abhilfe. Nun waren alle Responses geschrieben. Durch die Anonymität konnten die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten, somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
+
 
 ### 5. Finale Empfehlungen ###
 
@@ -100,11 +104,11 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 ### 2. Abgabe der Papers ###
 - [ ] Reviewers Guidelines erstellen 
 - [ ] Gitbook Ordner für Reviewers Copies erstellen
+- [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
 
 ### 3. Abgabe der Reviews ###
-- [ ] Reviewern Papers zuteilen & per DM benachrichtigen
-- [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
+- [ ] Reviewern Papers zuteilen & per DM benachrichtigen
 - [ ] 'Review Survey' passend zu den Guidelines erstellen
 
 ### 4. Paper Anpassungen ###
