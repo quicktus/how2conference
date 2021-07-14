@@ -85,7 +85,7 @@ On Friday, 25.06.2021 all papers related to text are presented. Each presentatio
 
 
 
-![](../.assets/guidelines_preview.png)
+![](.assets/guidelines_preview.png)
 
 
 
