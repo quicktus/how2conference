@@ -58,7 +58,9 @@ Nun musste die Agenda der Konferenz erstellt werden.
 
 Im Nachgang:  Ich habe in Summe drei Surveys erstellt. Als erstes das Review Survey (mit dem die Reviewers ihr Review geschrieben haben), dann das Response to Reviewers Survey (mit dem die Autoren an die anonymen Reviewers A, B, C und D jeweils direkt aber gleichzeitig anonym geantwortet haben) und schließlich das Final Recommendation Survey (mit dem die Reviewer ihre Overall Evaluation ändern konnten oder gleich lassen konnten). 
 
-Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem in der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, bewirkten dies (STATISTIK EINBAUEN).
+Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem in der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, bewirkten dies.
+
+![](.assets/stats.png)
 
 Ein paar Studierende fragten per DM aktiv nach, ob ihre Bewertung nach den Anpassungen verändert wurden (die finalen Bewertungen sind für die Conference Chairs gedacht, nicht für die Autoren, weil sie den Chairs die Entscheidung erleichtern sollen). Ich habe dies gerne ehrlich beantwortet.
 
