@@ -8,6 +8,11 @@ Feld zu einem Pflichtfeld machen:
 ![](../.assets/survey2.png)
 
 
+Mindestlänge für Textfeld einstellen:
+
+![](../.assets/survey7.png)
+
+
 Einstellungen:
 
 ![](../.assets/survey3.png)
