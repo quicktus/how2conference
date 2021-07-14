@@ -29,11 +29,11 @@ Als nächstes wurden Conference Guidelines für die Reviewer erstellt. Hierzu or
 
 Anschließend habe ich mit [Google Forms](https://www.google.de/intl/de/forms/about/), das sich wegen der Integration mit Google Sheets für die Konferenzzwecke gut eignet, ein Survey erstellt für die Reviews, das die Vorgaben der Reviewers‘ Guidelines wie die Kriterienkataloge, die Textbeschreibungen und die Notenskalen umsetzt.
 
-Damit die Reviewers Reviews erstellen können, ohne dass die Autoren ihre Version weiterentwickelt haben (manche Autoren schaffen es nicht, bis zur eigentlich bekannten Deadline ihr Paper fertig zu stellen und dürfen auch bis zur Konferenz ständig weiterentwickeln), habe ich in Gitbook in einem eigenen Ordner Reviewers‘ copies erstellt, die den Stand zum Abgabetermin „einfroren“ und nicht verändert werden durften. Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang der Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
-
 Mit Java habe ich ein Skript (assignment.java) erstellt, das zufallsgesteuert unter Berücksichtigung einiger Regeln die Papers jeweils vier Reviewer pro Paper zuteil. Die Ausgabe kann als eine csv-Datei gespeichert werden. Außerdem generiert das Skript die Direktnachrichten für alle Teilnehmer. Die csv-Datei habe ich anschließend zur "vollen" Excel-Datei konvertiert (better_assignment.xlsx) und erweitert. Sie enthält als Checkliste zusätzlich zur erfolgten Zuteilung Reviewers zu den Reviewees Spalten für die Überwachung des Direktnachrichten-Versands, eine invertierte Tabelle mit den Reviewees, um per Checkliste zu überwachen, wer Reviewer A, B, C oder D ist und wer die zugeordneten Chair Reviewer sind. All das ist aus der ursprünlichen Tabelle nicht oder zumindest nicht direkt ersichtlich, wird aber im Verlauf des Projekts gebraucht, beispielsweise um die Reviews anonym im Formular (s. weiter unten) einzutragen. Wichtig an dieser Stelle ist auch, dass das Chair Review für die Conference Chairs nicht von diesen, sondern von einem anderen Studierenden geschrieben werden (sonst würden sich die Chairs ihr Chair Review selbst schreiben). Mein Script vermeidet dies.
 
-Danach habe ich allen Direktnachrichten geschrieben, mit dem Inhalt, welche zwei Papers pro Studierenden zu erstellen sind und mit einem Link zur Reviewer’s copy und zum Survey. 
+Danach habe ich allen Teilnehmern Direktnachrichten geschrieben, mit dem Inhalt, welche zwei Papers zu erstellen sind und einem Link zu den Reviewer’s copies und zum Survey. 
+
+Damit die Reviewers Reviews erstellen können, ohne dass die Autoren ihre Version weiterentwickelt haben (manche Autoren schaffen es nicht, bis zur eigentlich bekannten Deadline ihr Paper fertig zu stellen und dürfen auch bis zur Konferenz ständig weiterentwickeln), habe ich in Gitbook in einem eigenen Ordner Reviewers‘ copies erstellt, die den Stand zum Abgabetermin „einfroren“ und nicht verändert werden durften. Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang der Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
 
 Ein Problem war, dass eine Studierende wegen des Arbeitsvolumens aufgehört hat und deshalb ihre Reviews auch nicht mehr schrieb – ihr Partner machte jedoch weiter. Dadurch fehlten zwei Reviews, die auch leider von niemandem aus der Studentenschaft übernommen wurden. Ein weiteres Problem war, dass zwei Reviews so mangelhaft formuliert waren, dass sie von mir als Chair nach Rücksprache mit den Dozenten herausgenommen wurden, um einen niedrigen Standard nicht offensichtlich zu machen.
 
@@ -46,7 +46,9 @@ Danach habe ich angefangen, die Chair Reviews zu schreiben und ebenfalls als Unt
 
 Nun kamen Direktnachrichten an alle, damit es sicher jeder sieht, dass die Reviews und Chair Reviews fertig sind. Ich konnte die Nachricht immer copy&pasten, weil ich diesmal die Anrede weggelassen habe.
 
-Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurden, schaffte eine Teams-Gruppen-DM mit den Dozierenden und den Studierenden zur Motivation hier Abhilfe. Nun waren alle Responses gemacht und in die Excel-Tabelle wurde eingetragen, wer an wen Direkt Responses geben musste, denn durch die Anonymität durften die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten. Mit Copy & paste wurde jedem per DM ein entsprechender Text geschickt (nicht in Gitbook).
+Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurde, schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden hier Abhilfe. Nun waren alle Responses geschrieben. Durch die Anonymität konnten die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten, somit musste die Zuteilungstabelle verwendet werden um den Reviewer zu identifizieren. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
+
+### 5. Finale Empfehlungen ###
 
 Das Formular „Reviewers‘ final Recommendation“ diente dazu, dass die Reviewer ihre Gesamtnoten für das Paper ändern konnten, nachdem sie die Antworten und Änderungen oder Weiterentwicklungen gelesen hatten.
 
@@ -57,6 +59,9 @@ Im Nachgang:  Ich habe in Summe drei Surveys erstellt. Als erstes das Review Sur
 Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem in der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, bewirkten dies (STATISTIK EINBAUEN).
 
 Ein paar Studierende fragten per DM aktiv nach, ob ihre Bewertung nach den Anpassungen verändert wurden (die finalen Bewertungen sind für die Conference Chairs gedacht, nicht für die Autoren, weil sie den Chairs die Entscheidung erleichtern sollen). Ich habe dies gerne ehrlich beantwortet.
+
+
+### 6. Konferenz ###
 
 Wer präsentiert an welchem Konferenztag. Theoretisch wäre es über die Präferenz in Terminklick gegangen, aber wir wollten angelehnt an echte Konferenzen über die thematischen Tracks als roten Faden aufteilen und haben statt zwei Tracks zwei Tage gemacht, den Image Day und den Text Day. Den beliebtesten Tag haben wir als den gewählt, an dem die meisten Präsentationen sein sollten. Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
 
