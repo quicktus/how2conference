@@ -1,6 +1,6 @@
 # Submission & Peer Reviewing
 
-![](../.assets/pattern.png)
+![](.assets/pattern.png)
 
 ## Welcome
 
@@ -8,7 +8,7 @@ We warmly welcome you to the digital ML4B 2021 Conference. 2021 is a very specia
 
 To put a conference of this magnitude together is not a small task. To that end, we want to thank the reviewers for agreeing to help perfecting the technical quality of the submissions and providing recommendations to the chairs as well as all of the conference participants whose contributions are the foundation of this conference.
 
-![](../.assets/chairs.png)
+![](.assets/chairs.png)
 
 Sven Schweigert and Kilian Wenker   
 \(Conference Chairs\)
