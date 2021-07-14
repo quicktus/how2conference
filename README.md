@@ -65,6 +65,7 @@ Für die Zukunft: Die Konferenz kann, sollte sie ein weiteres mal online stattfi
 
 
 ## Checklisten ##
+Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. 
 
 ### 1. Zeitplan ###
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
