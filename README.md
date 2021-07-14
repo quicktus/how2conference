@@ -3,7 +3,7 @@
 [Projekt](#Projekt) |
 [Checklisten](#Checklisten)
 
-![](../.assets/pattern.png)
+![](.assets/pattern.png)
 
 ## Projekt ##
 
