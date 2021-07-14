@@ -69,9 +69,10 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 
 ### 1. Zeitplan ###
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
+- [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
 - [ ] Willkommensnachricht(en) erstellen
 - [ ] Umfrage zur Terminfindung der Konferenztermine durchführen
-- [ ] Zeitplan anhand von Umfrageergebnis und Veranstaltungsrahmen erstellen
+- [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen
 
 ### 2. Abgabe der Papers ###
 - [ ] Reviewers Guidelines erstellen 

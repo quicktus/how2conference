@@ -1,0 +1,3 @@
+Damit wir richtig anfangen können, müssen wir uns auf die oben erwähnten Konferenztermine einigen. Bitte tragt hier bis Dienstag, den 1.6.2021 12:00 Uhr eure Präferenzen ein. Falls ihr heute Vormittag schon abgestimmt habt, überprüft bitte, ob eure Stimme noch da ist, leider sind ein paar der Stimmen verloren gegangen. (Wer sich nicht einträgt, dessen Wünsche können wir leider nicht berücksichtigen.)
+
+![](../.assets/msg2.png)
