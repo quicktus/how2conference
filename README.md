@@ -97,4 +97,4 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
 - [ ] Ablaufplan für die Konferenztage erstellen
 - [ ] Eröffnungsansprache erstellen
-- [ ] Konferenz mit Martin und Markus moderieren
+- [ ] Konferenz zusammen mit Martin und Markus moderieren

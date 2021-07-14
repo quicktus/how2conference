@@ -1,4 +1,4 @@
-Ich möchte Euch sowohl von mir als auch im Namen vom meinem Kollegen Sven offiziell zur ersten Machine Learning for Business Konferenz begrüßen. 
+Ich möchte Euch sowohl von mir aus als auch im Namen vom meinem Kollegen Sven offiziell zur ersten Machine Learning for Business Konferenz begrüßen. 
 In den vergangenen Wochen habt ihr, die ML4B-Teilnehmer großartige Projekte durchgeführt. Diese Konferenz wird uns die Möglichkeit geben, unsere Gedanken zu teilen und Ideen auszutauschen, wie Machine Learning Unternehmen helfen kann, neue Höhen zu erreichen.
 Wir möchten uns bei allen Reviewers bedanken, dank eurem Feedback haben viele Autoren die Möglichkeit gehabt, ihre Einreichungen zu optimieren. Vielen Dank an der Stelle auch an Runjie und Sebastian die für unser Paper die Rolle der Chairs übernommen haben.
 
