@@ -36,20 +36,22 @@ Mit Java habe ich ein Skript (assignment.java) erstellt, das zufallsgesteuert un
 
 Danach habe ich allen Teilnehmern Direktnachrichten geschrieben, mit dem Inhalt, welche zwei Papers zu erstellen sind und einem Link zu den Reviewer’s copies und zum Survey. 
 
-Damit die Reviewers Reviews erstellen können, ohne dass die Autoren ihre Version weiterentwickelt haben (manche Autoren schaffen es nicht, bis zur eigentlich bekannten Deadline ihr Paper fertig zu stellen und dürfen auch bis zur Konferenz ständig weiterentwickeln), habe ich in Gitbook in einem eigenen Ordner Reviewers‘ copies erstellt, die den Stand zum Abgabetermin „einfroren“ und nicht verändert werden durften. Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang der Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
+Damit die Reviewers Reviews erstellen können, ohne dass die Autoren ihre Version weiterentwickelt haben (manche Autoren schaffen es nicht, bis zur eigentlich bekannten Deadline ihr Paper fertig zu stellen und dürfen auch bis zur Konferenz ständig weiterentwickeln), habe ich in Gitbook in einem eigenen Ordner Reviewers‘ copies erstellt, die den Stand zum Abgabetermin „einfroren“ und nicht verändert werden durften. In der aktuellen Version von Gitbook ist das nicht trivial, weswegen ich froh war, dass ich das Kopieren bereits getestet hatte. 
+
+Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live-Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang der Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
 
 Ein Problem war, dass eine Studierende wegen des Arbeitsvolumens aufgehört hat und deshalb ihre Reviews auch nicht mehr schrieb – ihr Partner machte jedoch weiter. Dadurch fehlten zwei Reviews, die auch leider von niemandem aus der Studentenschaft übernommen wurden. Ein weiteres Problem war, dass zwei Reviews so mangelhaft formuliert waren, dass sie von mir als Chair nach Rücksprache mit den Dozenten herausgenommen wurden, um einen niedrigen Standard nicht offensichtlich zu machen.
 
 
 ### 4. Paper Anpassungen ###
 
-Die Reviews habe ich dann als Subseiten an die Reviewers‘ copies angehängt, indem ich sie in ein Markdown Template eingesetzt habe. Dadurch, dass alle Seiten von mir erstellt wurden blieb die Anonymität der Reviewer gewahrt. An jede Review wurde auch ein Hinweis auf die nächste Deadline gehängt.
+Die Reviews habe ich dann als Subseiten an die Reviewers‘ copies angehängt, indem ich sie in ein Markdown Template eingesetzt habe. Dadurch, dass alle Seiten von mir erstellt wurden, blieb die Anonymität der Reviewer gewahrt. An jede Review wurde auch ein Hinweis auf die nächste Deadline gehängt.
 
 Danach habe ich angefangen, die Chair Reviews zu schreiben und ebenfalls als Unterseite in Gitbook angehängt. Zu Transparenzzwecken habe ich an mein eigenes Chair Review die Infobox gehängt: „To avoid a conflict of interest, this review was not written by the conference chairs who are also the authors of this paper.“
 
 Nun kamen Direktnachrichten an alle, damit es sicher jeder sieht, dass die Reviews und Chair Reviews fertig sind. Ich konnte die Nachricht immer copy & pasten, weil ich diesmal die Anrede weggelassen habe.
 
-Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurde, schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden hier Abhilfe. Nun waren alle Responses geschrieben. Durch die Anonymität konnten die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten, somit musste die Zuteilungstabelle verwendet werden um den Reviewer zu identifizieren. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
+Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurde, schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden hier Abhilfe. Nun waren alle Responses geschrieben. Durch die Anonymität konnten die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten, somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
 
 ### 5. Finale Empfehlungen ###
 
