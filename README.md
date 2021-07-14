@@ -37,22 +37,23 @@ Gleich nach der Deadline für die Abgabe der Papers habe ich die Reviewers‘ co
 
 Anschließend habe ich mit [Google Forms](https://www.google.de/intl/de/forms/about/), das sich wegen der Integration mit Google Sheets für die Konferenzzwecke gut eignet, ein Survey erstellt für die Reviews, das die Vorgaben der Reviewers‘ Guidelines wie die Kriterienkataloge, die Textbeschreibungen und die Notenskalen umsetzt.
 
-Mit Java habe ich ein Skript (assignment.java) erstellt, das zufallsgesteuert unter Berücksichtigung einiger Regeln die Papers jeweils vier Reviewer pro Paper zuteil. Die Ausgabe kann als eine csv-Datei gespeichert werden. Außerdem generiert das Skript die Direktnachrichten für alle Teilnehmer. Die csv-Datei habe ich anschließend zur "vollen" Excel-Datei konvertiert (better_assignment.xlsx) und erweitert. Sie enthält als Checkliste zusätzlich zur erfolgten Zuteilung Reviewers zu den Reviewees: Spalten für die Überwachung des Direktnachrichten-Versands, eine invertierte Tabelle mit den Reviewees, um per Checkliste zu überwachen, wer Reviewer A, B, C oder D ist und wer die zugeordneten Chair Reviewer sind. All das ist aus der ursprünglichen Tabelle nicht oder zumindest nicht direkt ersichtlich, wird aber im Verlauf des Projekts gebraucht, beispielsweise um die Antworten auf die Reviews den richtigen Reviewern (s. weiter unten) zuzusenden. Wichtig an dieser Stelle ist auch, dass das Chair Review für die Conference Chairs nicht von diesen, sondern von einem anderen Studierenden geschrieben werden (sonst würden sich die Chairs ihr Chair Review selbst schreiben). Mein Skript vermeidet dies.
+Mit Java habe ich ein Skript (assignment.java) erstellt, das zufallsgesteuert unter Berücksichtigung einiger Regeln die Papers jeweils vier Reviewer pro Paper zuteil. Die Ausgabe kann als csv-Datei gespeichert werden. Außerdem generiert das Skript die Direktnachrichten für alle Teilnehmer. 
+Die csv-Datei habe ich anschließend zur "vollen" Excel-Datei konvertiert (better_assignment.xlsx) und erweitert. Sie enthält zusätzlich zur Zuteilung Reviewers - Papers: Spalten für die Überwachung des Direktnachrichten-Versands, eine invertierte Tabelle mit den Papers. Letztere ist nützlich um nachzusehen, wer der Reviewer mit dem Alias A, B, C oder D ist und wer die zugeordneten Chair Reviewer sind. All das ist aus der ursprünglichen Tabelle nicht oder zumindest nicht direkt ersichtlich, wird aber im Verlauf des Projekts gebraucht, beispielsweise um die Antworten auf die Reviews den richtigen Reviewern (s. weiter unten) zuzusenden. Wichtig an dieser Stelle ist auch, dass das Chair Review für die Conference Chairs nicht von diesen, sondern von einem anderen Studierenden geschrieben werden sollten (sonst würden sich die Chairs ihr Chair Review selbst schreiben). Mein Skript vermeidet dies.
 
 Danach habe ich allen Teilnehmern Direktnachrichten geschrieben, mit dem Inhalt, welche zwei Papers zu erstellen sind und einem Link zu den Reviewer’s copies und zum Survey. 
 
-Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live-Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang der Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
+Trotzdem kommen dann menschliche Fehler wie z.B., dass Studierende aus Versehen die Anpassungen als Antwort auf ihre Reviews nicht in der Live-Version einbauen, sondern in den Reviewers‘ copies (ich habe dann z.B. an den Anfang aller Reviewers‘ copies eine Infobox gestellt mit dem Hinweis „This is the Reviewers' Copy. Do not edit this page.“). 
 
-Ein Problem war, dass eine Studierende wegen des Arbeitsvolumens aufgehört hat und deshalb ihre Reviews auch nicht mehr schrieb – ihr Partner machte jedoch weiter. Dadurch fehlten zwei Reviews, die auch leider von niemandem aus der Studentenschaft übernommen wurden. Ein weiteres Problem war, dass zwei Reviews so mangelhaft formuliert waren, dass sie von mir als Chair nach Rücksprache mit den Dozenten herausgenommen wurden, um einen niedrigen Standard nicht offensichtlich zu machen.
+Ein Problem war, dass eine Studierende wegen des Arbeitsvolumens aufgehört hat und deshalb ihre Reviews auch nicht mehr schrieb – ihr Partner machte jedoch weiter. Dadurch fehlten zwei Reviews, die auch leider von niemandem aus der Studentenschaft übernommen wurden. Ein weiteres Problem war, dass zwei Reviews so mangelhaft formuliert waren, dass sie von mir als Chair nach Rücksprache mit den Dozenten herausgenommen wurden.
 
 
 ### 4. Paper Anpassungen ###
 
-Die Reviews habe ich dann als Subseiten an die Reviewers‘ copies angehängt, indem ich sie in ein Markdown Template eingesetzt habe. Dadurch, dass alle Seiten von mir erstellt wurden, blieb die Anonymität der Reviewer gewahrt. An jede Review wurde auch ein Hinweis auf die nächste Deadline gehängt.
+Die Reviews habe ich dann als Subseiten an die Reviewers‘ copies angehängt, nachdem ich sie in ein Markdown Template eingesetzt habe. Dadurch, dass alle Seiten von mir erstellt wurden, blieb die Anonymität der Reviewer gewahrt. An jede Review wurde auch ein Hinweis auf die nächste Deadline gehängt.
 
 Danach habe ich angefangen, die Chair Reviews zu schreiben und ebenfalls als Unterseite in Gitbook angehängt. Zu Transparenzzwecken habe ich an mein eigenes Chair Review die Infobox gehängt: „To avoid a conflict of interest, this review was not written by the conference chairs who are also the authors of this paper.“
 
-Nun kamen Direktnachrichten an alle, damit es sicher jeder sieht, dass die Reviews und Chair Reviews fertig sind. Ich konnte die Nachricht immer copy & pasten, weil ich diesmal die Anrede weggelassen habe.
+Ein Survey, 'Authors Response to Reviewers' wurde erstellt und per Direktnachrichten an alle Teilnehmer geschickt,  zusammen mit der Infromation, dass die Reviews und Chair Reviews fertig sind. Ich konnte diese Nachricht immer direkt in den chat einfügen, weil ich diesmal personalisierungen wie eine namentliche Anrede weggelassen habe. Das hat den Zeitaufwand ein wenig reduziert.
 
 Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurde, schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden hier Abhilfe. Nun waren alle Responses geschrieben. Durch die Anonymität konnten die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten, somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
 
@@ -108,8 +109,8 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 
 ### 3. Abgabe der Reviews ###
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
-- [ ] Reviewern Papers zuteilen & per DM benachrichtigen
 - [ ] 'Review Survey' passend zu den Guidelines erstellen
+- [ ] Reviewern Papers zuteilen & per DM benachrichtigen
 
 ### 4. Paper Anpassungen ###
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
