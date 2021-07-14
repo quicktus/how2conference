@@ -1,4 +1,4 @@
-# Submission & Peer Reviewing
+# Gitbook page
 
 ![](.assets/pattern.png)
 
