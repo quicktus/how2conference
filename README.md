@@ -57,27 +57,23 @@ Ein Survey, 'Authors Response to Reviewers' wurde erstellt und per Direktnachric
 
 Nachdem diese Deadline abgelaufen war viel auf, dass sie von zwei Teams nicht eingehalten wurde. Hier schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden Abhilfe und die Responses wurden nachgereicht. 
 
-Durch die Anonymität konnten die Autoren nicht wissen, welche Studierenden das Review formuliert hatten. Somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren um ihm die Response zukommen lassen zu können. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
-
 
 ### 5. Finale Empfehlungen ###
 
-Das Formular „Reviewers‘ final Recommendation“ diente dazu, dass die Reviewer ihre Gesamtnoten für das Paper ändern konnten, nachdem sie die Antworten und Änderungen oder Weiterentwicklungen gelesen hatten.
+Das letzte Survey, „Reviewers‘ final Recommendation“, diente dazu, dass die Reviewer ihre Gesamtnoten für das Paper ändern konnten, nachdem sie die Antworten und Änderungen oder Weiterentwicklungen gelesen hatten. Diese wurden ihnen einzeln Per DD zugesendet. Durch die Anonymität konnten die Autoren nicht wissen, welche Studierenden das Review formuliert hatten. Somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren um ihm die Response zukommen lassen zu können. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
 
-Nun musste die Agenda der Konferenz erstellt werden. 
+Nun musste die Agenda der Konferenz erstellt werden. Theoretisch wäre es über die Präferenzen aus der Terminklick-Abstimmung gegangen, allerdings habe ich mich letztlich dagegen entschieden. In Anlehnung an echte Konferenzen, die mehrere thematisch aufgeteilte Tracks haben, habe ich für die jeden der zwei Konferenztage ein Thema festgelegt. Den beliebtesten Tag haben ich als den gewählt, an dem die meisten Präsentationen sein sollten. Es entstanden der Image Day und der Text Day. Wie die Namen vermuten lassen waren am ersten Konferenztag waren Präsentationen zu Machinelearning mit Bildern geplant und am zweiten Präsentationen zu Projekten mit Machinelearing mithilfe von Text. 
 
-Im Nachgang:  Ich habe in Summe drei Surveys erstellt. Als erstes das Review Survey (mit dem die Reviewers ihr Review geschrieben haben), dann das Response to Reviewers Survey (mit dem die Autoren an die anonymen Reviewers A, B, C und D jeweils direkt aber gleichzeitig anonym geantwortet haben) und schließlich das Final Recommendation Survey (mit dem die Reviewer ihre Overall Evaluation ändern konnten oder gleich lassen konnten). 
-
-Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem in der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, bewirkten dies.
+Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem bei der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, liesen mich alle Papers bedenkenlos annehmen.
 
 ![](.assets/stats.png)
 
-Ein paar Studierende fragten per DM aktiv nach, ob ihre Bewertung nach den Anpassungen verändert wurden (die finalen Bewertungen sind für die Conference Chairs gedacht, nicht für die Autoren, weil sie den Chairs die Entscheidung erleichtern sollen). Ich habe dies gerne ehrlich beantwortet.
+Ein paar Studierende fragten per DM aktiv nach, ob ihre Bewertung nach den Anpassungen verändert wurden. Die finalen Bewertungen sind für die Conference Chairs gedacht, um den Chairs die Entscheidung  zu erleichtern. Daher hatte ich diese den Autoren nicht von vorn herrein zugeschickt. Trotzdem habe ich die Anfragen gerne ehrlich beantwortet.
 
 
 ### 6. Konferenz ###
 
-Wer präsentiert an welchem Konferenztag. Theoretisch wäre es über die Präferenz in Terminklick gegangen, aber wir wollten angelehnt an echte Konferenzen über die thematischen Tracks als roten Faden aufteilen und haben statt zwei Tracks zwei Tage gemacht, den Image Day und den Text Day. Den beliebtesten Tag haben wir als den gewählt, an dem die meisten Präsentationen sein sollten. Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
+Wer präsentiert an welchem Konferenztag.  aber wir wollten angelehnt an echte Konferenzen über die thematischen Tracks als roten Faden aufteilen und haben statt zwei Tracks zwei Tage gemacht, den   Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
 
 Ich habe in Teams einen Ordner angelegt, in dem alle ihre ppt-Dateien für die Präsentation hochladen konnten, damit sie am Konferenztag zur Verfügung standen (und auch den Dozenten hinterher für die Bewertung zur Verfügung standen).
 
