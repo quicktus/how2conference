@@ -55,7 +55,9 @@ Danach habe ich angefangen, die Chair Reviews zu schreiben und ebenfalls als Unt
 
 Ein Survey, 'Authors Response to Reviewers' wurde erstellt und per Direktnachrichten an alle Teilnehmer geschickt,  zusammen mit der Infromation, dass die Reviews und Chair Reviews fertig sind. Ich konnte diese Nachricht immer direkt in den chat einfügen, weil ich diesmal personalisierungen wie eine namentliche Anrede weggelassen habe. Das hat den Zeitaufwand ein wenig reduziert.
 
-Nachdem diese Deadline vorbei war und von drei Studierenden ignoriert wurde, schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden hier Abhilfe. Nun waren alle Responses geschrieben. Durch die Anonymität konnten die Autoren ja nicht wissen, welche Studierenden das Review formuliert hatten, somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
+Nachdem diese Deadline abgelaufen war viel auf, dass sie von zwei Teams nicht eingehalten wurde. Hier schaffte eine Ermahnung in einer dazu erstellten Teams-Gruppen-DM mit den Dozierenden und den betroffenen Studierenden Abhilfe und die Responses wurden nachgereicht. 
+
+Durch die Anonymität konnten die Autoren nicht wissen, welche Studierenden das Review formuliert hatten. Somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren um ihm die Response zukommen lassen zu können. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
 
 
 ### 5. Finale Empfehlungen ###
