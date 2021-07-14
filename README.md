@@ -62,7 +62,7 @@ Nachdem diese Deadline abgelaufen war viel auf, dass sie von zwei Teams nicht ei
 
 Das letzte Survey, „Reviewers‘ final Recommendation“, diente dazu, dass die Reviewer ihre Gesamtnoten für das Paper ändern konnten, nachdem sie die Antworten und Änderungen oder Weiterentwicklungen gelesen hatten. Diese wurden ihnen einzeln Per DD zugesendet. Durch die Anonymität konnten die Autoren nicht wissen, welche Studierenden das Review formuliert hatten. Somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren um ihm die Response zukommen lassen zu können. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
 
-Nun musste die Agenda der Konferenz erstellt werden. Theoretisch wäre es über die Präferenzen aus der Terminklick-Abstimmung gegangen, allerdings habe ich mich letztlich dagegen entschieden. In Anlehnung an echte Konferenzen, die mehrere thematisch aufgeteilte Tracks haben, habe ich für die jeden der zwei Konferenztage ein Thema festgelegt. Den beliebtesten Tag haben ich als den gewählt, an dem die meisten Präsentationen sein sollten. Es entstanden der Image Day und der Text Day. Wie die Namen vermuten lassen waren am ersten Konferenztag waren Präsentationen zu Machinelearning mit Bildern geplant und am zweiten Präsentationen zu Projekten mit Machinelearing mithilfe von Text. 
+Nun musste die Agenda der Konferenz erstellt werden. Theoretisch wäre es über die Präferenzen aus der Terminklick-Abstimmung gegangen, allerdings habe ich mich letztlich dagegen entschieden. In Anlehnung an echte Konferenzen, die mehrere thematisch aufgeteilte Tracks haben, habe ich für die jeden der zwei Konferenztage ein Thema als roten Faden festgelegt. Den beliebtesten Tag haben ich als den gewählt, an dem die meisten Präsentationen sein sollten. Es entstanden der Image Day und der Text Day. Wie die Namen vermuten lassen waren am ersten Konferenztag waren Präsentationen zu Machinelearning mit Bildern geplant und am zweiten Präsentationen zu Projekten mit Machinelearing mithilfe von Text. Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
 
 Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem bei der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, liesen mich alle Papers bedenkenlos annehmen.
 
@@ -73,9 +73,10 @@ Ein paar Studierende fragten per DM aktiv nach, ob ihre Bewertung nach den Anpas
 
 ### 6. Konferenz ###
 
-Wer präsentiert an welchem Konferenztag.  aber wir wollten angelehnt an echte Konferenzen über die thematischen Tracks als roten Faden aufteilen und haben statt zwei Tracks zwei Tage gemacht, den   Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
+Ich habe in Teams einen Ordner angelegt, in dem alle ihre Dateien für die Präsentation hochladen konnten, damit sie am Konferenztag zur Verfügung standen (und auch den Dozenten hinterher für die Bewertung dienten).
 
-Ich habe in Teams einen Ordner angelegt, in dem alle ihre ppt-Dateien für die Präsentation hochladen konnten, damit sie am Konferenztag zur Verfügung standen (und auch den Dozenten hinterher für die Bewertung zur Verfügung standen).
+
+### Allgemeines ###
 
 Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz zu teilen:  
 1. die eigene Gitbook-Page mit allen Informationen zur Konferenz auf einer Seite (Vergangenes und auch weit in die Zukunft),  
