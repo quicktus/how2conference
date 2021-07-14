@@ -59,7 +59,7 @@ Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz 
 
 Branding: Von den Dozenten erhielt ich ein Logo, aus dem ich ein Banner entwickelte. Letzteres habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Der wurde an den Konferenztagen von fast allen Teilnehmern als Teams-Background-Filter genutzt, was ein schönes Bild beim Finale ergab, etwas genormter und authentischer wirkte und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine echte Konferenz gewesen und die Teilnehmer sprächen vor einer Fotoleinwand.
 
-Für die Zukunft: Die Konferenz kann per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, z.B. mit Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang miteinander etc.). Damit wurden schon echte ML-Konferenzen gehalten.
+Für die Zukunft: Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, u.a. durch Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang etc.). Damit wurden schon echte ML-Konferenzen gehalten.
 
 
 ## Checklisten ##
