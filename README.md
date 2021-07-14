@@ -57,7 +57,9 @@ Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz 
 3. das Vorlesungsmeeting in Form der Videokonferenz (rund fünf Minuten am Anfang und am Ende konnte ich für Updates nutzen, mit Infos die den Teams-Infos teilweise voraus waren)  
 4. Direktnachrichten per Teams z.B. für Links zu den zu reviewenden Papers oder den Formularen. 
 
-Branding: Von den Dozenten erhielt ich ein Logo, aus dem ich ein Banner entwickelte. Letzteres habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Der wurde an den Konferenztagen von fast allen Teilnehmern als Teams-Background-Filter genutzt, was ein schönes Bild beim Finale ergab, etwas genormter und authentischer wirkte und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine echte Konferenz gewesen und die Teilnehmer sprächen vor einer Fotoleinwand.
+Es ist wichtig alle Informationen frühzeitig und über meherere Kanäle zu komunizieren. Insbesondere wichtige Ansagen wie Deadlines habe ich immer über alle vier kanäle kommuniziert und kur vor deren Ablauf noch einmal einen Hinweis verschickt. Das hat die Konferenzorganisation enorm erleichtert und für einen nahezu reibungslosen Ablauf gesorgt.
+
+Branding: Von den Dozenten erhielt ich ein Logo, aus dem ich einen Banner entwickelte. Letzteren habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Außerdem habe ich den Teilnehmern einen Teams-Background-Filter zur verfügung gestellt, der an den Konferenztagen von fast allen Teilnehmern genutzt wurde. Das ergab ein schönes Bild beim Finale, wirkte etwas genormter und authentischer und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine nicht-virtuelle Konferenz gewesen wäre bei der die Teilnehmer nebeneinader vor einer Fotoleinwand sitzen.
 
 Für die Zukunft: Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, u.a. durch Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang etc.). Damit wurden schon echte ML-Konferenzen gehalten.
 
@@ -76,6 +78,7 @@ Für die Zukunft: Die Konferenz kann, sollte sie ein weiteres mal online stattfi
 
 ### 3. Abgabe der Reviews ###
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen
+- [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
 - [ ] 'Review Survey' passend zu den Guidelines erstellen
 
