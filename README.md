@@ -77,7 +77,7 @@ Ich habe in Teams einen Ordner angelegt, in dem alle Teilnehmer ihre Dateien fü
 
 Um die Konferenz zu beginnen hatte ich eine kurze Rede geschrieben, und anschließend frei in zusammenarbeit mit den Dozenten dei Konferenz moderiert. Besonders wichtig war dabei die Uhrzeit im Auge zu behalten und gegebenenfalls Dinge wie Demonstrationen nach hinten zu verschieben um den Zeitplan einzuhalten. 
 
-Das Open End hat an beiden Konferenztagen erfreulicherweise noch über eine Stunde angehalten und die Konferenz hat den Teilnehmern laut deren R​ückmeldungen sehr gut gefallen.
+Beide Konferenztage hatten ein Open End, das erfreulicherweise beide male noch über eine Stunde angehalten hat. Auch insgesamt hat die Konferenz den Teilnehmern laut deren R​ückmeldungen sehr gut gefallen.
 
 
 ### Allgemeines ###
