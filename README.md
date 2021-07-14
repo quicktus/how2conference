@@ -62,8 +62,6 @@ Nachdem diese Deadline abgelaufen war viel auf, dass sie von zwei Teams nicht ei
 
 Das letzte Survey, „Reviewers‘ final Recommendation“, diente dazu, dass die Reviewer ihre Gesamtnoten für das Paper ändern konnten, nachdem sie die Antworten und Änderungen oder Weiterentwicklungen gelesen hatten. Diese wurden ihnen einzeln Per DD zugesendet. Durch die Anonymität konnten die Autoren nicht wissen, welche Studierenden das Review formuliert hatten. Somit musste die Zuteilungstabelle verwendet werden, um den Reviewer zu identifizieren um ihm die Response zukommen lassen zu können. Mit copy & paste wurde jedem Reviewer per DM ein entsprechender Text mit den Responses geschickt.
 
-Nun musste die Agenda der Konferenz erstellt werden. Theoretisch wäre es über die Präferenzen aus der Terminklick-Abstimmung gegangen, allerdings habe ich mich letztlich dagegen entschieden. In Anlehnung an echte Konferenzen, die mehrere thematisch aufgeteilte Tracks haben, habe ich für die jeden der zwei Konferenztage ein Thema als roten Faden festgelegt. Den beliebtesten Tag haben ich als den gewählt, an dem die meisten Präsentationen sein sollten. Es entstanden der Image Day und der Text Day. Wie die Namen vermuten lassen waren am ersten Konferenztag waren Präsentationen zu Machinelearning mit Bildern geplant und am zweiten Präsentationen zu Projekten mit Machinelearing mithilfe von Text. Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
-
 Nach der Deadline für die Final Recommendation habe ich verkündet, dass alle Papers angenommen wurden (wäre ein Paper nicht empfohlen worden, hätte es trotzdem bei der Konferenz vorgestellt werden müssen). Die freundlichen Bewertungen durch die Mitstudierenden, die inhaltlich hilfreich aber in der Skalierung sehr positiv waren, liesen mich alle Papers bedenkenlos annehmen.
 
 ![](.assets/stats.png)
@@ -73,7 +71,13 @@ Ein paar Studierende fragten per DM aktiv nach, ob ihre Bewertung nach den Anpas
 
 ### 6. Konferenz ###
 
-Ich habe in Teams einen Ordner angelegt, in dem alle ihre Dateien für die Präsentation hochladen konnten, damit sie am Konferenztag zur Verfügung standen (und auch den Dozenten hinterher für die Bewertung dienten).
+Nun musste die Agenda der Konferenz erstellt werden. Theoretisch wäre es über die Präferenzen aus der Terminklick-Abstimmung gegangen, allerdings habe ich mich letztlich dagegen entschieden. In Anlehnung an echte Konferenzen, die mehrere thematisch aufgeteilte Tracks haben, habe ich für die jeden der zwei Konferenztage ein Thema als roten Faden festgelegt. Den beliebtesten Tag haben ich als den gewählt, an dem die meisten Präsentationen sein sollten. Es entstanden der Image Day und der Text Day. Wie die Namen vermuten lassen waren am ersten Konferenztag waren Präsentationen zu Machinelearning mit Bildern geplant und am zweiten Präsentationen zu Projekten mit Machinelearing mithilfe von Text. Die Agenda im Gitbook wurde entsprechend sortiert und eingefügt. 
+
+Ich habe in Teams einen Ordner angelegt, in dem alle Teilnehmer ihre Dateien für die Präsentation hochladen konnten, damit sie am Konferenztag zur Verfügung standen (und auch den Dozenten hinterher für die Bewertung dienten).
+
+Um die Konferenz zu beginnen hatte ich eine kurze Rede geschrieben, und anschließend frei in zusammenarbeit mit den Dozenten dei Konferenz moderiert. Besonders wichtig war dabei die Uhrzeit im Auge zu behalten und gegebenenfalls Dinge wie Demonstrationen nach hinten zu verschieben um den Zeitplan einzuhalten. 
+
+Das Open End hat an beiden Konferenztagen erfreulicherweise noch über eine Stunde angehalten und die Konferenz hat den Teilnehmern laut deren R​ückmeldungen sehr gut gefallen.
 
 
 ### Allgemeines ###
@@ -123,5 +127,6 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 ### 6. Konferenz ###
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
 - [ ] Ablaufplan für die Konferenztage erstellen
+- [ ] Teams Ordner für Präsentationsdateien erstellen 
 - [ ] Eröffnungsansprache erstellen
 - [ ] Konferenz zusammen mit Martin und Markus moderieren
