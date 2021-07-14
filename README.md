@@ -83,10 +83,10 @@ Beide Konferenztage hatten ein Open End, das erfreulicherweise beide male noch �
 ### Allgemeines ###
 
 Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz zu teilen:  
-1. die eigene Gitbook-Page mit allen Informationen zur Konferenz auf einer Seite (Vergangenes und auch weit in die Zukunft),  
-2. der eigene Teams-Kanal (für Friendly Reminders oder aktuelle Sachen wie ab heute dürfen die Reviews geschrieben werden, ihr solltet alle eine DM bekommen haben, falls nicht bitte gebt mir Bescheid)  
-3. das Vorlesungsmeeting in Form der Videokonferenz (rund fünf Minuten am Anfang und am Ende konnte ich für Updates nutzen, mit Infos die den Teams-Infos teilweise voraus waren)  
-4. Direktnachrichten per Teams z.B. für Links zu den zu reviewenden Papers oder den Formularen. 
+1. die eigene Gitbook-Page mit allen Informationen zur Konferenz auf einer Seite,  
+2. der eigene Teams-Kanal (für aktuelle Informationen und Friendly Reminders an Deadlines)  
+3. das Vorlesungsmeeting in Form der Videokonferenz (hier konnte ich nach Absprache mit den Dozenten live Updates zur Konferenz geben)  
+4. Direktnachrichten per Teams (für sehr wichtige oder individuelle Informationen). 
 
 Es ist wichtig alle Informationen frühzeitig und über meherere Kanäle zu komunizieren. Insbesondere wichtige Ansagen wie Deadlines habe ich immer über alle vier kanäle kommuniziert und kur vor deren Ablauf noch einmal einen Hinweis verschickt. Das hat die Konferenzorganisation enorm erleichtert und für einen nahezu reibungslosen Ablauf gesorgt.
 
