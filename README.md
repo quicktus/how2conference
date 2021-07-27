@@ -82,20 +82,17 @@ Beide Konferenztage hatten ein Open End, das erfreulicherweise beide male noch �
 
 ### Allgemeines ###
 
-#### Kommunikationskanäle ####
 Als Chair hatte ich vier Kanäle zur Verfügung, um Informationen zur Konferenz zu teilen:  
 1. die eigene Gitbook-Page mit allen Informationen zur Konferenz auf einer Seite,  
 2. der eigene Teams-Kanal (für aktuelle Informationen und Friendly Reminders an Deadlines)  
 3. das Vorlesungsmeeting in Form der Videokonferenz (hier konnte ich nach Absprache mit den Dozenten live Updates zur Konferenz geben)  
 4. Direktnachrichten per Teams (für sehr wichtige oder individuelle Informationen). 
 
-Es ist wichtig alle Informationen frühzeitig und über meherere Kanäle zu komunizieren. Insbesondere Ansagen wie Deadlines habe ich immer über drei oder alle vier kanäle kommuniziert. Zusätzlich habe ich am Tag deren Ablaufs noch einmal auf die Deadlines hingewiesen. Das hat die Konferenzorganisation erleichtert, und für einen nahezu reibungslosen Ablauf gesorgt.
+Es ist wichtig alle Informationen frühzeitig und über meherere Kanäle zu komunizieren. Insbesondere wichtige Ansagen wie Deadlines habe ich immer über alle vier kanäle kommuniziert und kur vor deren Ablauf noch einmal einen Hinweis verschickt. Das hat die Konferenzorganisation enorm erleichtert und für einen nahezu reibungslosen Ablauf gesorgt.
 
-#### Branding ####
-Von den Dozenten erhielt ich ein Logo, aus dem ich einen Banner entwickelte. Letzteren habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Außerdem habe ich den Teilnehmern einen Teams-Background-Filter zur verfügung gestellt, der an den Konferenztagen von fast allen Teilnehmern genutzt wurde. Das ergab ein schönes Bild beim Finale, wirkte etwas genormter und authentischer und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine nicht-virtuelle Konferenz gewesen wäre bei der die Teilnehmer nebeneinader vor einer Fotoleinwand sitzen.
+Branding: Von den Dozenten erhielt ich ein Logo, aus dem ich einen Banner entwickelte. Letzteren habe ich in alle wichtigen Posts und in Gitbook an den Anfang gestellt, um ein professionelleres Bild zu erzeugen. Außerdem habe ich den Teilnehmern einen Teams-Background-Filter zur verfügung gestellt, der an den Konferenztagen von fast allen Teilnehmern genutzt wurde. Das ergab ein schönes Bild beim Finale, wirkte etwas genormter und authentischer und zeigte, wie gut das Branding durch die permanente Wiederholung funktioniert hat – es sah gewissermaßen so aus, als ob es eine nicht-virtuelle Konferenz gewesen wäre bei der die Teilnehmer nebeneinader vor einer Fotoleinwand sitzen.
 
-#### Für die Zukunft ####
-Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, u.a. durch Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang etc.). Damit wurden schon echte ML-Konferenzen gehalten.
+Für die Zukunft: Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, u.a. durch Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang etc.). Damit wurden schon echte ML-Konferenzen gehalten.
 
 ## Checklisten ##
 Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. Diese sind in chronologischer Reihenfolge aufgebaut. Manche Unterpunkte können auch in einer anderen Reihenfolgen abgearbeitet werden, die hier angegebene Reihenfolge ist allerdings in dieses Fällen genauso gut oder besser als die Alternativen.
