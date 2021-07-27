@@ -102,7 +102,7 @@ Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathert
 Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. 
 
 ### 1. Zeitplan ###
-[Nachrichten](1. Zeitplan/Teams welcome.md)
+[Nachrichten](<1. Zeitplan/Teams welcome.md>)
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
 - [ ] Willkommensnachricht(en) erstellen
