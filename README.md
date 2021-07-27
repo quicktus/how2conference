@@ -105,7 +105,7 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
 - [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>) [(Teams Beispiel)](<1. Zeitplan/Teams welcome.md>)
 - [ ] Umfrage zur Terminfindung der Konferenztermine durchführen [(Teams Beispiel)](<1. Zeitplan/Teams Terminfindung.md>) [(Ergebnisse Export)](<1. Zeitplan/conference_dates_poll.csv>)
-- [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen [(Teams Beispiel)](<1. Zeitplan/Teams Konferenztermine.md>)  
+- [ ] Anhand des Umfrageergebnisses den Zeitplan mit den Konferenzterminen vervollständigen [(Teams Beispiel)](<1. Zeitplan/Teams Konferenztermine.md>)  
 - - - -
 ### 2. Abgabe der Papers ###
 - [ ] Reviewers Guidelines erstellen [(Beispiel)](<2. Abgabe der Papers/ML4B_Conference_Paper_Reviewer_Guidelines.pdf>)
@@ -115,7 +115,8 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 ### 3. Abgabe der Reviews ###
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Gitbook-Disclaimer)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
 - [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
-- [ ] Reviewern Papers zuteilen & per DM benachrichtigen [(java code)](<3. Abgabe der Reviews/Paper_assignment.java>) [(Teams Beispiel)](<3. Abgabe der Reviews/Teams assignment.md>) [(Teams DM Beispiel)](<3. Abgabe der Reviews/Teams DM assignment.md>)  
+- [ ] Reviewern Papers zuteilen [(java code)](<3. Abgabe der Reviews/Paper_assignment.java>)
+- [ ] Zuteilung verkünden  [(Teams Beispiel)](<3. Abgabe der Reviews/Teams assignment.md>) [(Teams DM Beispiel)](<3. Abgabe der Reviews/Teams DM assignment.md>)    
 - - - -
 ### 4. Paper Anpassungen ###
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
