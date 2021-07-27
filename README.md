@@ -115,7 +115,7 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 ### 3. Abgabe der Reviews ###
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Gitbook-Disclaimer)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
 - [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
-- [ ] Reviewern Papers zuteilen [(java code)](<3. Abgabe der Reviews/Paper_assignment.java>)
+- [ ] Reviewern Papers zuteilen [(java code)](<3. Abgabe der Reviews/Paper_assignment.java>) [(Beispieltabelle)](<3. Abgabe der Reviews/better_assignment.xlsx>)
 - [ ] Zuteilung verkünden  [(Teams Beispiel)](<3. Abgabe der Reviews/Teams assignment.md>) [(Teams DM Beispiel)](<3. Abgabe der Reviews/Teams DM assignment.md>)    
 - - - -
 ### 4. Paper Anpassungen ###
