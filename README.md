@@ -99,7 +99,7 @@ Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathert
 
 
 ## Checklisten ##
-Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. 
+Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten.  Diese sind in chronologischer Reihenfolge aufgebaut. Manche Unterpunkte können auch in einer anderen Reihenfolgen abgearbeitet werden, die hier angegebene Reihenfolge ist allerdings in dieses Fällen genauso gut oder besser als die Alternativen.
 
 ### 1. Zeitplan ###
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
