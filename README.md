@@ -136,7 +136,6 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] 'Final Recomendation' Survey erstellen
 - [ ] Responses per DM an die jeweiligen Reviewer senden\
 \
-\
 ### 6. Konferenz ###
 [(Nachrichten)](<6. Konferenz/messages.md>)
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
