@@ -114,14 +114,14 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - - - -
 ### 3. Abgabe der Reviews ###
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Gitbook-Disclaimer)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
-- [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
+- [ ] 'Review Survey' passend zu den Guidelines erstellen [(Survey Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
 - [ ] Reviewern Papers zuteilen [(java code)](<3. Abgabe der Reviews/Paper_assignment.java>) [(Beispieltabelle)](<3. Abgabe der Reviews/better_assignment.xlsx>)
 - [ ] Zuteilung verkünden  [(Teams Beispiel)](<3. Abgabe der Reviews/Teams assignment.md>) [(Teams DM Beispiel)](<3. Abgabe der Reviews/Teams DM assignment.md>)    
 - - - -
 ### 4. Paper Anpassungen ###
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen [(Gitbook Template)](<4. Paper Anpassungen/template.md>)  
-- [ ] Chair Review für jedes Paper erstellen [(Beispiel)](<4. Paper Anpassungen/Chair review samples.md>) 
-- [ ] 'Authors Response to Reviewers' Survey erstellen [(Teams Beispiel)](<4. Paper Anpassungen/Teams Response Form.md>) [(Teams DM Beispiel)](<4. Paper Anpassungen/Teams DM Response Form.md>)  
+- [ ] Chair Review für jedes Paper erstellen [(Beispiele)](<4. Paper Anpassungen/Chair review samples.md>) 
+- [ ] 'Authors Response to Reviewers' Survey erstellen [(Survey Beispiel)](<4. Paper Anpassungen/Survey - ML4B 2021 Conference - authors' response to reviewers.pdf>) [(Teams Beispiel)](<4. Paper Anpassungen/Teams Response Form.md>) [(Teams DM Beispiel)](<4. Paper Anpassungen/Teams DM Response Form.md>)  
 - - - -
 ### 5. Finale Empfehlungen ###
 - [ ] 'Final Recomendation' Survey erstellen
