@@ -119,9 +119,9 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Zuteilung verkünden  [(Teams Beispiel)](<3. Abgabe der Reviews/Teams assignment.md>) [(Teams DM Beispiel)](<3. Abgabe der Reviews/Teams DM assignment.md>)    
 - - - -
 ### 4. Paper Anpassungen ###
-- [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
-- [ ] Chair Review für jedes Paper erstellen
-- [ ] 'Authors Response to Reviewers' Survey erstellen  
+- [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen [(Gitbook Template)](<4. Paper Anpassungen/template.md>)  
+- [ ] Chair Review für jedes Paper erstellen [(Beispiel)](<4. Paper Anpassungen/Chair review samples.md>) 
+- [ ] 'Authors Response to Reviewers' Survey erstellen [(Teams Beispiel)](<4. Paper Anpassungen/Teams Response Form.md>) [(Teams DM Beispiel)](<4. Paper Anpassungen/Teams DM Response Form.md>)  
 - - - -
 ### 5. Finale Empfehlungen ###
 - [ ] 'Final Recomendation' Survey erstellen
