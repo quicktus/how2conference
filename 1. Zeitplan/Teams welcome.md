@@ -1,5 +1,3 @@
-# Teams Nachrichten #
-## Willkommen ##
 Liebe Konferenzteilnehmer und Autoren,
 
 anbei erhaltet ihr Informationen zu den nächsten Schritten auf dem Weg zu unserer Konferenz. Diese soll zwischen dem 15.6.2021 und dem 25.6.2021 an zwei Tagen stattfinden. 
@@ -23,25 +21,3 @@ Wir freuen uns schon auf eure Papers!
 Sven und Kilian
 
 ![](../.assets/msg1.png)
-
-
-## Umfrage zur Terminfindung ##
-Damit wir richtig anfangen können, müssen wir uns auf die oben erwähnten Konferenztermine einigen. Bitte tragt hier bis Dienstag, den 1.6.2021 12:00 Uhr eure Präferenzen ein. Falls ihr heute Vormittag schon abgestimmt habt, überprüft bitte, ob eure Stimme noch da ist, leider sind ein paar der Stimmen verloren gegangen. (Wer sich nicht einträgt, dessen Wünsche können wir leider nicht berücksichtigen.)
-
-![](../.assets/msg2.png)
-
-
-## Konferenztermine verkünden ##
-Konferenztermine - the votes are in!
-    
-Die ML4B 2021 Conference wird an den folgenden beiden Tagen stattfinden:
-    
-Sonntag, 20. June 2021 12:00 Uhr
-    
-Freitag, 25. June 2021 12:00 Uhr
-    
-
-Submission & Peer Reviewing - ML4B (gitbook.com)
-
-
-![](../.assets/msg3.png)
