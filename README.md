@@ -101,12 +101,11 @@ Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathert
 Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. 
 
 ### 1. Zeitplan ###
-[Nachrichten](<1. Zeitplan/Teams welcome.md>)
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
-- [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>)
-- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen [(Ergebnisse Export)](<1. Zeitplan/conference_dates_poll.csv>)
-- [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen  
+- [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>) [(Teams Beispiel)](<1. Zeitplan/Teams welcome.md>)
+- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen [(Teams Beispiel)](<1. Zeitplan/Teams Terminfindung.md>)[(Ergebnisse Export)](<1. Zeitplan/conference_dates_poll.csv>)
+- [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen [(Teams Beispiel)](<1. Zeitplan/Teams Konferenztermine.md>)  
 - - - -
 ### 2. Abgabe der Papers ###
 - [ ] Reviewers Guidelines erstellen [(Beispiel)](<2. Abgabe der Papers/ML4B_Conference_Paper_Reviewer_Guidelines.pdf>)
@@ -115,7 +114,7 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - - - -
 ### 3. Abgabe der Reviews ###
 [(Nachrichten)](<3. Abgabe der Reviews/messages.md>)
-- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Disclaimer-Nachricht)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
+- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Gitbook-Disclaimer)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
 - [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen  
 - - - -
