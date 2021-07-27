@@ -115,6 +115,7 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
 
 ### 3. Abgabe der Reviews ###
+[(Nachrichten)](<3. Abgabe der Reviews/messages.md>)
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
 - [ ] 'Review Survey' passend zu den Guidelines erstellen
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen
