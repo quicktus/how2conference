@@ -109,34 +109,34 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>)
 - [ ] Umfrage zur Terminfindung der Konferenztermine durchführen [(Ergebnisse Export)](<1. Zeitplan/conference_dates_poll.csv>)
 - [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen
-&nbsp;
-&nbsp;
+` `  
+` `  
 ### 2. Abgabe der Papers ###
 - [ ] Reviewers Guidelines erstellen [(Beispiel)](<2. Abgabe der Papers/ML4B_Conference_Paper_Reviewer_Guidelines.pdf>)
 - [ ] Gitbook Ordner für Reviewers Copies erstellen
 - [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
-&nbsp;
-&nbsp;
+` `  
+` `  
 ### 3. Abgabe der Reviews ###
 [(Nachrichten)](<3. Abgabe der Reviews/messages.md>)
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Disclaimer-Nachricht)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
 - [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen
-<br />
-<br />
+` `  
+` `  
 ### 4. Paper Anpassungen ###
 [(Nachrichten)](<4. Paper Anpassungen/messages.md>)
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
 - [ ] Chair Review für jedes Paper erstellen
 - [ ] 'Authors Response to Reviewers' Survey erstellen
-&nbsp;
-&nbsp;
+` `  
+` `  
 ### 5. Finale Empfehlungen ###
 [(Nachrichten)](<5. Finale Empfehlungen/messages.md>)
 - [ ] 'Final Recomendation' Survey erstellen
 - [ ] Responses per DM an die jeweiligen Reviewer senden
-&nbsp;
-&nbsp;
+` `  
+` `  
 ### 6. Konferenz ###
 [(Nachrichten)](<6. Konferenz/messages.md>)
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
