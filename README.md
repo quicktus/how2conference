@@ -97,38 +97,41 @@ Von den Dozenten erhielt ich ein Logo, aus dem ich einen Banner entwickelte. Let
 #### Für die Zukunft ####
 Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathertown](https://gather.town/) abgehalten werden, falls dies kostenlos möglich wird oder die FAU die Mittel hierfür bereitstellen kann (dann könnte das Ganze mit mehr Echtheitsflair und etwas interaktiver gestaltet werden, u.a. durch Proximity Chat, Poster aufstellen, man trifft sich zufällig im virtuellen Gang etc.). Damit wurden schon echte ML-Konferenzen gehalten.
 
-
 ## Checklisten ##
-Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. 
+Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. Diese sind in chronologischer Reihenfolge aufgebaut. Manche Unterpunkte können auch in einer anderen Reihenfolgen abgearbeitet werden, die hier angegebene Reihenfolge ist allerdings in dieses Fällen genauso gut oder besser als die Alternativen.
 
 ### 1. Zeitplan ###
-[a relative link](1. Zeitplan/)
+[(Nachrichten)](<1. Zeitplan/messages.md>)
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
-- [ ] Willkommensnachricht(en) erstellen
-- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen
-- [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen
-
+- [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>)
+- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen [(Ergebnisse Export)](<1. Zeitplan/conference_dates_poll.csv>)
+- [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen  
+- - - -
 ### 2. Abgabe der Papers ###
-- [ ] Reviewers Guidelines erstellen 
+- [ ] Reviewers Guidelines erstellen [(Beispiel)](<2. Abgabe der Papers/ML4B_Conference_Paper_Reviewer_Guidelines.pdf>)
 - [ ] Gitbook Ordner für Reviewers Copies erstellen
-- [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
-
+- [ ] Vor der Deadline das duplizieren der Gitbookseiten testen  
+- - - -
 ### 3. Abgabe der Reviews ###
-- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
-- [ ] 'Review Survey' passend zu den Guidelines erstellen
-- [ ] Reviewern Papers zuteilen & per DM benachrichtigen
-
+[(Nachrichten)](<3. Abgabe der Reviews/messages.md>)
+- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Disclaimer-Nachricht)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
+- [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
+- [ ] Reviewern Papers zuteilen & per DM benachrichtigen  
+- - - -
 ### 4. Paper Anpassungen ###
+[(Nachrichten)](<4. Paper Anpassungen/messages.md>)
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
 - [ ] Chair Review für jedes Paper erstellen
-- [ ] 'Authors Response to Reviewers' Survey erstellen
-
+- [ ] 'Authors Response to Reviewers' Survey erstellen  
+- - - -
 ### 5. Finale Empfehlungen ###
+[(Nachrichten)](<5. Finale Empfehlungen/messages.md>)
 - [ ] 'Final Recomendation' Survey erstellen
 - [ ] Responses per DM an die jeweiligen Reviewer senden
-
+ - - - -
 ### 6. Konferenz ###
+[(Nachrichten)](<6. Konferenz/messages.md>)
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
 - [ ] Ablaufplan für die Konferenztage erstellen
 - [ ] Teams Ordner für Präsentationsdateien erstellen 
