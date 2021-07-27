@@ -99,10 +99,10 @@ Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathert
 
 
 ## Checklisten ##
-Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. 
+Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten. Diese sind in chronologischer Reihenfolge aufgebaut. Manche Unterpunkte können auch in einer anderen Reihenfolgen abgearbeitet werden, die hier angegebene Reihenfolge ist allerdings in dieses Fällen genauso gut oder besser als die Alternativen.
 
 ### 1. Zeitplan ###
-[Nachrichten](<1. Zeitplan/Teams welcome.md>)
+[(Nachrichten)](<1. Zeitplan/messages.md>)
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
 - [ ] Willkommensnachricht(en) erstellen
@@ -120,15 +120,18 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen
 
 ### 4. Paper Anpassungen ###
+[(Nachrichten)](<4. Paper Anpassungen/messages.md>)
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
 - [ ] Chair Review für jedes Paper erstellen
 - [ ] 'Authors Response to Reviewers' Survey erstellen
 
 ### 5. Finale Empfehlungen ###
+[(Nachrichten)](<5. Finale Empfehlungen/messages.md>)
 - [ ] 'Final Recomendation' Survey erstellen
 - [ ] Responses per DM an die jeweiligen Reviewer senden
 
 ### 6. Konferenz ###
+[(Nachrichten)](<6. Konferenz/messages.md>)
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
 - [ ] Ablaufplan für die Konferenztage erstellen
 - [ ] Teams Ordner für Präsentationsdateien erstellen 
