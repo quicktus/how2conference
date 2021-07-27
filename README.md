@@ -124,8 +124,8 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] 'Authors Response to Reviewers' Survey erstellen [(Survey Beispiel)](<4. Paper Anpassungen/Survey - ML4B 2021 Conference - authors' response to reviewers.pdf>) [(Teams Beispiel)](<4. Paper Anpassungen/Teams Response Form.md>) [(Teams DM Beispiel)](<4. Paper Anpassungen/Teams DM Response Form.md>)  
 - - - -
 ### 5. Finale Empfehlungen ###
-- [ ] 'Final Recomendation' Survey erstellen
-- [ ] Responses per DM an die jeweiligen Reviewer senden
+- [ ] 'Final Recomendation' Survey erstellen [(Survey Beispiel)](<5. Finale Empfehlungen/Survey - Reviewers' final Recommendation.pdf>)
+- [ ] Responses per DM an die jeweiligen Reviewer senden [(Teams DM Beispiel)](<5. Finale Empfehlungen/Teams DM Response Text.md>) [(Teams Beispiel)](<5. Finale Empfehlungen/Teams Final Rec Form.md>)
  - - - -
 ### 6. Konferenz ###
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
