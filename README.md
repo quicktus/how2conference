@@ -128,8 +128,9 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Responses per DM an die jeweiligen Reviewer senden [(Teams DM Beispiel)](<5. Finale Empfehlungen/Teams DM Response Text.md>) [(Teams Beispiel)](<5. Finale Empfehlungen/Teams Final Rec Form.md>)
  - - - -
 ### 6. Konferenz ###
-- [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt)
-- [ ] Ablaufplan für die Konferenztage erstellen
+- [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt) [(Teams Beispiel)](<6. Konferenz/Teams accepted to conference.md>)
+- [ ] Ablaufplan für die Konferenztage erstellen [(Teams Beispiel)](<6. Konferenz/Teams Agenda.md>)
 - [ ] Teams Ordner für Präsentationsdateien erstellen 
-- [ ] Eröffnungsansprache erstellen
+- [ ] Eröffnungsansprache erstellen  [(Beispiel)](<6. Konferenz/opening speech.txt>)
 - [ ] Konferenz zusammen mit Martin und Markus moderieren
+- [ ] Abschlussnachricht [(Teams Beispiel)](<6. Konferenz/Teams end of conference.md>)
