@@ -105,19 +105,19 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 [(Nachrichten)](<1. Zeitplan/messages.md>)
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
-- [ ] Willkommensnachricht(en) erstellen
-- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen
+- [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>)
+- [ ] Umfrage zur Terminfindung der Konferenztermine durchführen [(Ergebnisse Export)](<1. Zeitplan/conference_dates_poll.csv>)
 - [ ] Anhand des Umfrageergebnises den Zeitplan mit den Konferenzterminen vervollständigen
 
 ### 2. Abgabe der Papers ###
-- [ ] Reviewers Guidelines erstellen 
+- [ ] Reviewers Guidelines erstellen [(Beispiel)](<2. Abgabe der Papers/ML4B_Conference_Paper_Reviewer_Guidelines.pdf>)
 - [ ] Gitbook Ordner für Reviewers Copies erstellen
 - [ ] Vor der Deadline das duplizieren der Gitbookseiten testen
 
 ### 3. Abgabe der Reviews ###
 [(Nachrichten)](<3. Abgabe der Reviews/messages.md>)
-- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern
-- [ ] 'Review Survey' passend zu den Guidelines erstellen
+- [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Disclaimer-Nachricht)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
+- [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen
 
 ### 4. Paper Anpassungen ###
