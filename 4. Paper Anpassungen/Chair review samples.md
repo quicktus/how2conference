@@ -1,5 +1,5 @@
 # Chair Review Beispiele #
-Diese Beispiele geben ein Gefühl für die Länge und den Stil eines Chair Reviews.
+Diese Beispiele geben einen Anhaltspunkt für die Länge und den Stil eines Chair Reviews.
 ## Beispiel 1 ##
 The reviewers agree on highly recommending this paper. They value the well layed out structure of the paper. The most common complaint is about the related work section. Although there is an expansive, clearly arranged table. This section should present all necessary background information to understand the rest of the paper and give an insight into the relevant works in the field. Specifically, one reviewer recommends to add a short summary of the related works. Perhaps expand the descriptions in the subject column. Other recommendations focus on small details that can be easily fixed.
 
