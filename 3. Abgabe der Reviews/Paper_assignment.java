@@ -28,7 +28,6 @@ public class Paper_assignment {
                 "Sentiment Analysis of Digital Twin Tweets - Pavel & Andrea"};
 
         String[] types = {"T", "T", "I", "I", "I", "I", "T", "T", "T", "T", "T", "I", "T", "T", "T", "T", "T"}; // T for text; I for images
-
         String[] slugs = {"rc-01", "rc-02", "rc-03", "rc-04", "rc-05", "rc-06", "rc-07", "rc-08", "rc-09", "rc-10",
                 "rc-11", "rc-12", "rc-13", "rc-14", "rc-15", "rc-16", "rc-17"};
         // ###
@@ -43,6 +42,7 @@ public class Paper_assignment {
 
         int j = 0;
         for (String i : titles) {
+
             //System.out.println(j + 1);
             papers[j] = new Paper(i, types[j], people[j * 2], people[j * 2 + 1], slugs[j]); // Paper Array wird befüllt
 
