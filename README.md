@@ -122,15 +122,15 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Disclaimer-Nachricht)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
 - [ ] 'Review Survey' passend zu den Guidelines erstellen [(Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
 - [ ] Reviewern Papers zuteilen & per DM benachrichtigen
-` `  
-` `  
+``  
+``  
 ### 4. Paper Anpassungen ###
 [(Nachrichten)](<4. Paper Anpassungen/messages.md>)
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen  
 - [ ] Chair Review für jedes Paper erstellen
 - [ ] 'Authors Response to Reviewers' Survey erstellen
-` `  
-` `  
+&NewLine;
+&NewLine;
 ### 5. Finale Empfehlungen ###
 [(Nachrichten)](<5. Finale Empfehlungen/messages.md>)
 - [ ] 'Final Recomendation' Survey erstellen
