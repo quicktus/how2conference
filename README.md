@@ -102,6 +102,7 @@ Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathert
 Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten.  Diese sind in chronologischer Reihenfolge aufgebaut. Manche Unterpunkte können auch in einer anderen Reihenfolgen abgearbeitet werden, die hier angegebene Reihenfolge ist allerdings in dieses Fällen genauso gut oder besser als die Alternativen.
 
 ### 1. Zeitplan ###
+[\[files\]](<1. Zeitplan/README.md>)
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
 - [ ] Zeitplan bis zur Konferenz passend zum Veranstaltungsrahmen erstellen
 - [ ] Willkommensnachricht(en) erstellen [(Gitbook Beispiel)](<gitbook page.md>) [(Teams Beispiel)](<1. Zeitplan/Teams welcome.md>)
@@ -109,26 +110,31 @@ Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung de
 - [ ] Anhand des Umfrageergebnisses den Zeitplan mit den Konferenzterminen vervollständigen [(Teams Beispiel)](<1. Zeitplan/Teams Konferenztermine.md>)  
 - - - -
 ### 2. Abgabe der Papers ###
+[\[files\]](<2. Abgabe der Papers/README.md>)
 - [ ] Reviewers Guidelines erstellen [(Beispiel)](<2. Abgabe der Papers/ML4B_Conference_Paper_Reviewer_Guidelines.pdf>)
 - [ ] Gitbook Ordner für Reviewers Copies erstellen
 - [ ] Vor der Deadline das duplizieren der Gitbookseiten testen  
 - - - -
 ### 3. Abgabe der Reviews ###
+[\[files\]](<3. Abgabe der Reviews/README.md>)
 - [ ] Nach der Deadline Kopien aller Papers erzeugen und in Reviewers Copies speichern [(Gitbook-Disclaimer)](<3. Abgabe der Reviews/Gitbook RC disclaimer.md>)
 - [ ] 'Review Survey' passend zu den Guidelines erstellen [(Survey Beispiel)](<3. Abgabe der Reviews/Survey - review.pdf>) [(Forms-Tipps)](<3. Abgabe der Reviews/Google_forms_hints.md>)
 - [ ] Reviewern Papers zuteilen [(java code)](<3. Abgabe der Reviews/Paper_assignment.java>) [(Beispieltabelle)](<3. Abgabe der Reviews/better_assignment.xlsx>)
 - [ ] Zuteilung verkünden  [(Teams Beispiel)](<3. Abgabe der Reviews/Teams assignment.md>) [(Teams DM Beispiel)](<3. Abgabe der Reviews/Teams DM assignment.md>)    
 - - - -
 ### 4. Paper Anpassungen ###
+[\[files\]](<4. Paper Anpassungen/README.md>)
 - [ ] Alle Reviews als Unterseiten der jeweiligen Reviewers Copies veröffentlichen [(Gitbook Template)](<4. Paper Anpassungen/template.md>)  
 - [ ] Chair Review für jedes Paper erstellen [(Beispiele)](<4. Paper Anpassungen/Chair review samples.md>) 
 - [ ] 'Authors Response to Reviewers' Survey erstellen [(Survey Beispiel)](<4. Paper Anpassungen/Survey - ML4B 2021 Conference - authors' response to reviewers.pdf>) [(Teams Beispiel)](<4. Paper Anpassungen/Teams Response Form.md>) [(Teams DM Beispiel)](<4. Paper Anpassungen/Teams DM Response Form.md>)  
 - - - -
 ### 5. Finale Empfehlungen ###
+[\[files\]](<5. Finale Empfehlungen/README.md>)
 - [ ] 'Final Recomendation' Survey erstellen [(Survey Beispiel)](<5. Finale Empfehlungen/Survey - Reviewers' final Recommendation.pdf>)
 - [ ] Responses per DM an die jeweiligen Reviewer senden [(Teams DM Beispiel)](<5. Finale Empfehlungen/Teams DM Response Text.md>) [(Teams Beispiel)](<5. Finale Empfehlungen/Teams Final Rec Form.md>)
  - - - -
 ### 6. Konferenz ###
+[\[files\]](<6. Konferenz/README.md>)
 - [ ] Anhand des Reviewprozess entscheiden ob alle Papers zur Konferenz "zugelassen werden" (Es geht hierbei vor allem um die vollständige Simulation des Reviewprozess für die Teilnehmer, unabhängig von diesem Urteil werden alle Papers bei der Konferenz vorgestellt) [(Teams Beispiel)](<6. Konferenz/Teams accepted to conference.md>)
 - [ ] Ablaufplan für die Konferenztage erstellen [(Teams Beispiel)](<6. Konferenz/Teams Agenda.md>)
 - [ ] Teams Ordner für Präsentationsdateien erstellen 
