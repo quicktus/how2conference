@@ -101,6 +101,12 @@ Die Konferenz kann, sollte sie ein weiteres mal online stattfinden, per [Gathert
 ## Checklisten ##
 Die Nachfolgenden sechs Checklisten zeigen die Aufgaben die zur Durchführung des jeweilgen Abschnitts erledigt werden mussten.  Diese sind in chronologischer Reihenfolge aufgebaut. Manche Unterpunkte können auch in einer anderen Reihenfolgen abgearbeitet werden, die hier angegebene Reihenfolge ist allerdings in dieses Fällen genauso gut oder besser als die Alternativen.
 
+```
+┌────────┐   ┌─────────────────┐   ┌──────────────────┐   ┌─────────────────┐   ┌───────────────────┐   ┌─────────┐
+│Zeitplan├──►│Abgabe der Papers├──►│Abgabe der Reviews├──►│Paper Anpassungen├──►│Finale Empfehlungen├──►│Konferenz│
+└────────┘   └─────────────────┘   └──────────────────┘   └─────────────────┘   └───────────────────┘   └─────────┘
+```
+
 ### 1. Zeitplan [\[files\]](<1. Zeitplan/README.md>) ### 
 
 - [ ] Kommunikationskanäle erstellen (z.B. Teams Channel und Gitbook Seite)
